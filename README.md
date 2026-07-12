@@ -2,15 +2,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/dark.svg">
+      srcset="assets/dark.svg">
 
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./assets/light.svg">
+      srcset="assets/light.svg">
 
     <img
-      src="./assets/light.svg"
       alt="Sai Ethihas Banner"
+      src="assets/light.svg"
       width="100%">
   </picture>
 </p>
